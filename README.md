@@ -2,10 +2,6 @@
 
 ChurnScope is an interactive web-based **Customer Churn Prediction Platform** that analyzes customer behavior, explores churn patterns, trains multiple classification models, and predicts whether an individual customer is likely to churn.
 
-The project was developed based on the **Customer Churn Prediction** project guideline:
-
-> Predict which customers are likely to stop using a service.
-
 The application focuses on a simulated **telecom customer dataset** and performs the complete machine learning workflow directly in the browser.
 
 ---
